@@ -41,16 +41,17 @@ Bangladesh (GUB), Bangladesh*
 ## <font color="#00cc66"> Certifications </font>
 
 **QSilver DIPLOMA**   
-[*<font color="#ff6633">[link]</font>*](/files/QSilver31-8.pdf) [QWorld](https://qworld.net/qsilver/)
-
+[*<font color="#ff6633">[Link]</font>*](/files/QSilver31-8.pdf) [(QWorld)](https://qworld.net/qsilver/)
    * Intermediate level workshop series by QWorld on quantum computing and programming focusing on complex numbers, QFT and Shor’s Algorithm quantum computing and programming using Qiskit
           
-**DeepLearning.AI TensorFlow Developer Specialization**  
-[*<font color="#ff6633">[TensorFlow]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/5E2FDBG5ALDR) [(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-  * Built basic neural network, GRUs, LSTMs using tensorflow and get profound implementation knowledge of tensorflow.
-  * Learned how to improve network performance using convolutions, how to teach machines to understand, analyze, and respond to human speech with natural language processing systems.
+**QBronze DIPLOMA**  
+[*<font color="#ff6633">[Link]</font>*](/files/QBronze167-43.pdf) [(QWorld)](https://qworld.net/workshop-bronze/)
+  * Introductory level quantum workshop series (16 to 20 hours) by QWorld on the basics of quantum computing and quantum programming using Qiskit
 
-**Natural Language Processing Specialization**  
-[*<font color="#ff6633">[Enrolled]</font>*](https://www.coursera.org/specializations/natural-language-processing?)
-   * Will learn about recurrent neural networks, LSTMs, GRUs & Siamese network in TensorFlow & Trax for sentiment analysis, text generation & named entity recognition.
-   * Will apply encoder-decoder & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
+**Qiskit Global Summer School 2025**  
+[*<font color="#ff6633">[Link]</font>*](/files/QiskitGlobalSummerSchool2025.pdf) [(IBM)](https://www.credly.com/go/ARhhsvZQ)
+   * Qiskit Global Summer School (QGSS) is a 2-week, fully virtual event designed to guide students through the evolution of quantum technologies using Qiskit by IBM 
+
+**Qiskit Fall Fest Bangladesh 2025 **  
+[*<font color="#ff6633">[Link]</font>*](/files/qiskit_fall_fest_2025.pdf) [(IBM)](https://qiskit-fall-fest-bd.vercel.app/)
+   * The first-ever Qiskit Fall Fest Extension event in Bangladesh by IBM Quantum. The focus is on fostering community, learning, and collaboration around Qiskit, IBM’s open-source quantum software, and quantum computing as a whole.
