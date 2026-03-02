@@ -84,6 +84,7 @@ Bangladesh (GUB), Bangladesh*
 **Judge**
 <b><font color= "#737373" > SciBlitz 1.0</font></b>[2023-2025] 
   *Contributed as a Judge for the Final Round of the poster presentation competition at SciBlitz 1.0, organized by the IEEE CUET Student Branch
+  *Contributed as a Judge for the Final Round of the poster presentation competition at SciBlitz 1.0, organized by the IEEE CUET Student Branch
 
 **Member**
 <b><font color= "#737373" > Finance Sub-committee</font></b>[2023-2025] 
