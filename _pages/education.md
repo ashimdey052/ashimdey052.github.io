@@ -1,5 +1,5 @@
 ---
-title: #"Education/Experience"
+title: "Details"
 excerpt: ""
 author_profile: true
 permalink: /education/
@@ -26,7 +26,7 @@ permalink: /education/
    -->
 
 
-## <font color="#49c3f3"> Work Experience </font>
+## <font color="#49c3f3"> Professional Experience </font>
  **Assistant Professor <font color="#541A75">[December 2021 - Present]</font>**   
  *Departmet of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Bangladesh*
 
@@ -36,6 +36,51 @@ permalink: /education/
  **Lecturer <font color="#541A75">[January 2018 - May 2018]</font>**   
  *Department of Computer Science and Engineering,  Green University of
 Bangladesh (GUB), Bangladesh*
+
+
+
+
+## <font color="#00cc66"> Mentorship and Leadership Experience</font>
+
+**CUET Model United Nations Club**   
+<b><font color= "#737373" >Moderator</font></b>  [2024-2025] 
+  * Operate an educational simulation of the United Nations(UN)
+  * Teach students about diplomacy, international relations, and global issues
+
+**CUET Computer Club**    
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+  * Promote the consciousness of information technology among students
+  * Organize contests, workshops, and seminars
+
+**Green For Peace, CUET**    
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+  * Encouraged student participation in eco-friendly initiatives and led discussions on sustainable practices.
+  * Organize workshops, seminars, and campaigns on environmental sustainability.
+
+**Competitive Programming Club, CUET**    
+<b><font color= "#737373" >Coach</font></b>  [2018-Present] 
+  * Coached and mentored teams for various prestigious programming competitions, including ICPC Asia Dhaka Regional 2023-2025, BUET IUPC 2023-26, DUET IUPC 2025, AUST IUPC 2025, IUT IUPC 2024, SUST IUPC 2024, KUET IUPC 2025, CoUBRACNet IUPC 2023, National Girls Programming Contest, (NGPC) 2022 and others.
+  * Keep track of individual performance and form up teams
+
+**Greater Mymensingh Association, CUET**    
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+  * Facilitated discussions and networking events for students and alumni from the Mymensingh region.
+  * Coordinated and organized regional events, alumni meets, and professional networking opportunities.
+
+**Batch 2019, Department of CSE, CUET**    
+<b><font color= "#737373" >Course Co-ordinator</font></b>  [2023-2025] 
+  * Mentored and guided students of the 2019 batch in course selection, helping them align academic interests with career goals.
+  * Provided personalized advice on academic challenges, career paths, and research opportunities.
+
+
+## <font color="#00cc66">Peer Review and Organizing Experience</font>
+
+**Reviewer**
+<b><font color= "#737373" >Journal</font></b>
+  * Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
+<b><font color= "#737373" >Conference</font></b>
+  * Works as reviewer for various conferences like IEEE BIM 2025, IEEE COMPAS 2025, IEEE ECCE 2025, IEEE ISACC 2025, DravidianLangTech-2025 at NAACL 2025, Springer ICDSAIA 2025, LT-EDI-2025 at LDK 2025.
+
 
 
 ## <font color="#00cc66"> Certifications </font>
