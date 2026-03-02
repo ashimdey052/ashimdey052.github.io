@@ -52,6 +52,10 @@ Bangladesh (GUB), Bangladesh*
 [*<font color="#ff6633">[Link]</font>*](/files/QiskitGlobalSummerSchool2025.pdf) [(IBM)](https://www.credly.com/go/ARhhsvZQ)
    * Qiskit Global Summer School (QGSS) is a 2-week, fully virtual event designed to guide students through the evolution of quantum technologies using Qiskit by IBM 
 
-**Qiskit Fall Fest Bangladesh 2025 **  
+**Qiskit Fall Fest Bangladesh 2025**  
 [*<font color="#ff6633">[Link]</font>*](/files/qiskit_fall_fest_2025.pdf) [(IBM)](https://qiskit-fall-fest-bd.vercel.app/)
    * The first-ever Qiskit Fall Fest Extension event in Bangladesh by IBM Quantum. The focus is on fostering community, learning, and collaboration around Qiskit, IBM’s open-source quantum software, and quantum computing as a whole.
+
+**Fundamental and Architecture-Internet of Things(IoT)**  
+[*<font color="#ff6633">[Link]</font>*](/files/iot_ICT_division.pdf) [(ICT Division, Bangladesh)]
+   * 60 hrs hands-on training on Fundamental & Architecture of IoT by ICT Division, Government of Bangladesh
