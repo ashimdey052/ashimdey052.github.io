@@ -75,26 +75,26 @@ Bangladesh (GUB), Bangladesh*
 
 ## <font color="#00cc66">Peer Review and Organizing Experience</font>
 
-**Reviewer**
-- <b><font color= "#737373" >Journal</font></b>
-  - Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
-- <b><font color= "#737373" >Conference</font></b>
-  - Works as reviewer for various conferences like IEEE BIM 2025, IEEE COMPAS 2025, IEEE ECCE 2025, IEEE ISACC 2025, DravidianLangTech-2025 at NAACL 2025, Springer ICDSAIA 2025, LT-EDI-2025 at LDK 2025.
+**Reviewer**    
+<b><font color= "#737373" >Journal</font></b>
+  * Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
+<b><font color= "#737373" >Conference</font></b>
+  * Works as reviewer for various conferences like IEEE BIM 2025, IEEE COMPAS 2025, IEEE ECCE 2025, IEEE ISACC 2025, DravidianLangTech-2025 at NAACL 2025, Springer ICDSAIA 2025, LT-EDI-2025 at LDK 2025.
 
-**Judge**
-<b><font color= "#737373" >SciBlitz 1.0</font></b>
+**Judge**   
+<b><font color= "#737373" >SciBlitz 1.0</font></b>   
   * Contributed as a Judge for the Final Round of the poster presentation competition at SciBlitz 1.0, organized by the IEEE CUET Student Branch
 
-**Member**
-<b><font color= "#737373" > Finance Sub-committee</font></b>
+**Member**    
+<b><font color= "#737373" > Finance Sub-committee</font></b>  
   * IEEE 4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)
 
-**Member**
-<b><font color= "#737373" > Organizing committee</font></b>
+**Member**    
+<b><font color= "#737373" > Organizing committee</font></b>  
   * 1st National Workshop on Big Data and Machine Learning (BDML 2020), CUET
 
-**Moderator**
-<b><font color= "#737373" > Technical Session</font></b> 
+**Moderator**   
+<b><font color= "#737373" > Technical Session</font></b>   
   * IEEE 4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025), Bangladesh
 
 
