@@ -26,21 +26,17 @@ Position: <b>1<sup>st</sup>/48</b>
 -->
 
 
-## <font color="#00cc66"> Work Experience </font>
- **Research Intern <font color="#541A75">[Mar 2025 - June 2025]</font>**   
- *Amazon, NYC*
+## <font color="#a00d03"> Work Experience </font>
+ **Assistant Professor <font color="#541A75">[December 2021 - Present]</font>**   
+ *Departmet of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Bangladesh*
 
- **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
- *Departmet of Computer Science, Dartmouth College*
-
- **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
- *Departmet of Computer Science and Engineering, CUET*
+ **Lecturer <font color="#541A75">[May 2018 - December 2021]</font>**   
+ *Departmet of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Bangladesh*
  
- **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
- *Department of Computer Science and Engineering, CUET*
+ **Lecturer <font color="#541A75">[January 2018 - May 2018]</font>**   
+ *Department of Computer Science and Engineering,  Green University of
+Bangladesh (GUB), Bangladesh*
 
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
- *CUET NLP Lab*
 
 ## <font color="#00cc66"> Certifications </font>
 
