@@ -83,14 +83,14 @@ Bangladesh (GUB), Bangladesh*
 
 **Judge**
 <b><font color= "#737373" > SciBlitz 1.0</font></b>
-  *Contributed as a Judge for the Final Round of the poster presentation competition at SciBlitz 1.0, organized by the IEEE CUET Student Branch
+*Contributed as a Judge for the Final Round of the poster presentation competition at SciBlitz 1.0, organized by the IEEE CUET Student Branch
 
 **Member**
 <b><font color= "#737373" > Finance Sub-committee</font></b>
-  *IEEE 4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)
+*IEEE 4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)
 
 **Member**
-<b><font color= "#737373" > Organizing committee</font></b>
+  <b><font color= "#737373" > Organizing committee</font></b>
   *1st National Workshop on Big Data and Machine Learning (BDML 2020), CUET
 
 **Moderator**
