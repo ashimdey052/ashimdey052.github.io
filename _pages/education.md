@@ -76,8 +76,8 @@ Bangladesh (GUB), Bangladesh*
 ## <font color="#00cc66">Peer Review and Organizing Experience</font>
 
 **Reviewer**
-- Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
-- Works as reviewer for various conferences like IEEE BIM 2025, IEEE COMPAS 2025, IEEE ECCE 2025, IEEE ISACC 2025, DravidianLangTech-2025 at NAACL 2025, Springer ICDSAIA 2025, LT-EDI-2025 at LDK 2025.
+  * Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
+  * Works as reviewer for various conferences like IEEE BIM 2025, IEEE COMPAS 2025, IEEE ECCE 2025, IEEE ISACC 2025, DravidianLangTech-2025 at NAACL 2025, Springer ICDSAIA 2025, LT-EDI-2025 at LDK 2025.
 
 **Judge**
 <b><font color= "#737373" > SciBlitz 1.0</font></b>
