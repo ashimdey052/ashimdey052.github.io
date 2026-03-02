@@ -1,5 +1,5 @@
 ---
-title: "Education/Experience"
+title: #"Education/Experience"
 excerpt: ""
 author_profile: true
 permalink: /education/
@@ -56,5 +56,5 @@ Bangladesh (GUB), Bangladesh*
       * The first-ever Qiskit Fall Fest Extension event in Bangladesh by IBM Quantum. The focus is on fostering community, learning, and collaboration around Qiskit, IBM’s open-source quantum software, and quantum computing as a whole.
 
    **Fundamental and Architecture-Internet of Things(IoT)**  
-   [*<font color="#ff6633">[Link]</font>*](/files/iot_ICT_division.pdf) [(ICT Division, Bangladesh)]
+   [*<font color="#ff6633">[Link]</font>*](/files/iot_ICT_division.pdf) (ICT Division, Bangladesh)
       * 60 hrs hands-on training on Fundamental & Architecture of IoT by ICT Division, Government of Bangladesh
