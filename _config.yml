@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ashim's Homepage"
 title_separator          : "-"
 name                     : &name "Ashim Dey"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ashim052" # Username
+  linkedin         : "ashim052" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -26,7 +26,7 @@ Position: <b>1<sup>st</sup>/48</b>
 -->
 
 
-## <font color="#a00d03"> Work Experience </font>
+## <font color="#49c3f3"> Work Experience </font>
  **Assistant Professor <font color="#541A75">[December 2021 - Present]</font>**   
  *Departmet of Computer Science and Engineering, Chittagong University of Engineering and Technology (CUET), Bangladesh*
 
