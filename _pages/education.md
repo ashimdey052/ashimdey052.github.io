@@ -76,7 +76,7 @@ Bangladesh (GUB), Bangladesh*
 ## <font color="#00cc66">Peer Review and Organizing Experience</font>
 
 **Reviewer**
-<br\>
+\\
 <b><font color= "#737373" >Journal</font></b>
 * Works as reviewer for various Journals like Journal of Data in Brief(Elsevier), Journal of Heliyon (Elsevier), Journal of Informatics in Medicine Unlocked (Elsevier).   
 <b><font color= "#737373" >Conference</font></b>
