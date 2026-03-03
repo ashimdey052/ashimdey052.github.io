@@ -9,11 +9,10 @@ permalink: /achievements/
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Language Proficiency</span>       
-**Bengali** - Native User
-**English** - Proficient User (CEFR Level: C1)
-**IELTS Score** - 7.0 (L: 8.0 | R: 7.5 | W: 6.5 | S: 6.5)      
-<span style="color:rgb(201, 76, 76)">Coding</span>  Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLAB
-<span style="color:rgb(201, 76, 76)">Miscellaneous</span>  Academic Research, Teaching, Training, Consultation, Mentoring, Reviewing 
+Bengali - Native User
+English - Proficient User (CEFR Level: C1)
+          IELTS Score : 7.0 (L: 8.0 | R: 7.5 | W: 6.5 | S: 6.5)      
+<span style="color:rgb(201, 76, 76)">Coding</span>  C++, Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLAB
 </pre>
 
 ## <font color="#00cc66"> Competitive Programming </font>
