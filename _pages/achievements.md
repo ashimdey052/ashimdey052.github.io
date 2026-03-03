@@ -1,21 +1,17 @@
 ---
-title: "Research Grants"
+title: "Details"
 excerpt: ""
 author_profile: true
 permalink: /achievements/
-
 ---
- <!-- * <b><font color= "#737373" >OpenAI Researcher Access Program</font></b>(2024): $5,000 API credit to assess OpenAI models on human-centric NLP tasks.
- * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
- * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT -->
 
 ## <font color="#00cc66"> Skills </font>
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Language Proficiency</span>       
-** Bengali ** - Native User
-** English ** - Proficient User (CEFR Level: C1)
-** IELTS Score ** - 7.0 (Listening: 8.0 | Reading: 7.5 | Writing: 6.5 | Speaking: 6.5)      
+**Bengali** - Native User
+**English** - Proficient User (CEFR Level: C1)
+**IELTS Score** - 7.0 (L: 8.0 | R: 7.5 | W: 6.5 | S: 6.5)      
 <span style="color:rgb(201, 76, 76)">Coding</span>  Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLAB
 <span style="color:rgb(201, 76, 76)">Miscellaneous</span>  Academic Research, Teaching, Training, Consultation, Mentoring, Reviewing 
 </pre>
