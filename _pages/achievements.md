@@ -13,11 +13,13 @@ permalink: /achievements/
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Language Proficiency</span>       
-- **Bengali** - Native User
-- **English** - Proficient User (CEFR Level: C1)
-- **IELTS Score** - 7.0 (Listening: 8.0 | Reading: 7.5 | Writing: 6.5 | Speaking: 6.5)      
-<span style="color:rgb(201, 76, 76)">Coding</span>               Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLABMySQL, Verilog HDL
-<span style="color:rgb(201, 76, 76)">Miscellaneous</span>              Academic Research, Teaching, Training, Consultation, Mentoring, Reviewing
+**Bengali** - Native User
+**English** - Proficient User (CEFR Level: C1)
+**IELTS Score** - 7.0 (Listening: 8.0 | Reading: 7.5 | Writing: 6.5 | Speaking: 6.5)      
+<span style="color:rgb(201, 76, 76)">Coding</span>               Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLAB
+
+<span style="color:rgb(201, 76, 76)">LibrMisaries</span>              TensorFlow, Keras, NLTK, Scikit-learn, Gensim, Pandas 
+
 </pre>
 
 ## <font color="#00cc66"> Competitive Programming </font>
