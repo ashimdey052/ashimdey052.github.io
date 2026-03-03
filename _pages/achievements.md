@@ -5,17 +5,19 @@ author_profile: true
 permalink: /achievements/
 
 ---
- * <b><font color= "#737373" >OpenAI Researcher Access Program</font></b>(2024): $5,000 API credit to assess OpenAI models on human-centric NLP tasks.
+ <!-- * <b><font color= "#737373" >OpenAI Researcher Access Program</font></b>(2024): $5,000 API credit to assess OpenAI models on human-centric NLP tasks.
  * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
- * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
+ * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT -->
 
-## <font color="#00cc66"> Technical Skills </font>
+## <font color="#00cc66"> Skills </font>
 
 <pre>
-<span style="color:rgb(201, 76, 76)">Proficient</span>             C, C++, Python, Matlab, Octave 
-<span style="color:rgb(201, 76, 76)">Moderate</span>               PyTorch, Java, JavaScript, MySQL, Verilog HDL
-<span style="color:rgb(201, 76, 76)">Libraries</span>              TensorFlow, Keras, NLTK, Scikit-learn, Gensim, Pandas 
-<span style="color:rgb(201, 76, 76)">Frameworks & Tools</span>     Flask, Django, Jupyter, Beautiful Soup, Git, Latex   
+<span style="color:rgb(201, 76, 76)">Language Proficiency</span>       
+- **Bengali** - Native User
+- **English** - Proficient User (CEFR Level: C1)
+- **IELTS Score** - 7.0 (Listening: 8.0 | Reading: 7.5 | Writing: 6.5 | Speaking: 6.5)      
+<span style="color:rgb(201, 76, 76)">Coding</span>               Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLABMySQL, Verilog HDL
+<span style="color:rgb(201, 76, 76)">Miscellaneous</span>              Academic Research, Teaching, Training, Consultation, Mentoring, Reviewing
 </pre>
 
 ## <font color="#00cc66"> Competitive Programming </font>
