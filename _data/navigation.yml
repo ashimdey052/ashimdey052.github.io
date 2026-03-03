@@ -21,7 +21,7 @@ main:
     url: /education/
 
   - title: "Achievements/Skills"
-    url: /year-archive/    
+    url: /achievements/ #/year-archive/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
