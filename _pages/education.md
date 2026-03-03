@@ -93,7 +93,7 @@ Bangladesh (GUB), Bangladesh*
 <b><font color= "#737373" > Organizing committee</font></b>  
   * 1st National Workshop on Big Data and Machine Learning (BDML 2020), CUET
 
-**Moderator**   
+**Moderator**   [*<font color="#ff6633">[Link]</font>*](/files/session_ecce_Ashim%20Dey_2025_moderator.pdf)
 <b><font color= "#737373" > Technical Session</font></b>   
   * IEEE 4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025), Bangladesh
 
