@@ -5,7 +5,7 @@ author_profile: true
 permalink: /achievements/
 ---
 
-## <font color="#00cc66"> Skills </font>
+## <font color="#00cc66"> Skills </font>    
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Language Proficiency</span>
@@ -16,9 +16,9 @@ English - Proficient User (CEFR Level: C1)
 C++, Python, Java, C# (.net), SQL, XML/XSL, LaTeX, MATLAB
 </pre>
 
-## <font color="#00cc66"> Competitive Programming </font>
+<!-- ## <font color="#00cc66"> Competitive Programming </font>
 
-Solved 1000+ competitive programming problems in different online platforms as part of my preparation for proramming contests (ICPC, NCPC, etc). [*<font color="#ff6633"> Sloved Problems (GitHub)</font>*](https://github.com/omar-sharif03/Competitive-Programming)
+Solved 1000+ competitive programming problems in different online platforms as part of my preparation for proramming contests (ICPC, NCPC, etc). [*<font color="#ff6633"> Sloved Problems (GitHub)</font>*](https://github.com/omar-sharif03/Competitive-Programming) -->
 <!-- 
 <span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 500+ problems <a href="https://codeforces.com/profile/omar_sharif"><font color="#ff6633">[omar_sharif]</font></a> 
 <span style="color:rgb(201, 76, 76)">UVA</span>            Solved 200+ problems <a href="https://uhunt.onlinejudge.org/id/479040"><font color="#ff6633">[cuet_fighter]</font></a>  
@@ -26,46 +26,41 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 120+ problems <a href="https://csacademy.com/user/omar_sharif"><font color="#ff6633">[omar_sharif]</font></a>  
 -->
 
-<pre>
+<!-- <pre>
 <span style="color:rgb(201, 76, 76)">Codeforces</span>     Solved 500+ problems 
 <span style="color:rgb(201, 76, 76)">UVA</span>            Solved 200+ problems 
 <span style="color:rgb(201, 76, 76)">LightOJ</span>        Solved 120+ problems 
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems
-</pre>
+</pre> -->
 
-## <font color="#00cc66"> Honors and Awards</font>
+## <font color="#00cc66"> Honors and Awards</font>    
 <ul>
-  <li> <b><font color= "#737373" > Outstanding TA Award</font></b> (2025): Outstanding contribution for teaching in the CS Department at Dartmouth</li>
+  <li> <b><font color= "#737373" > Academic Merit Award </font></b> Received the Academic Merit Award for outstanding academic performance consecutively from 2013 to 2017, spanning 8 semesters during B.Sc.</li>
   
-  <li> <b><font color= "#737373" > Presidential Graduate Fellow</font></b> (2022): Awarded to only two incoming graduate student in Dartmouth</li>
+  <li> <b><font color= "#737373" > ACM-ICPC 2014 Asia Regional</font></b> Participated in the Dhaka Site Online Preliminary Contest which was sponsored by IBM and Hosted by BUBT</li>
     
-  <li> <b><font color= "#737373" >Best Paper Award</font></b> (2021): CONSTRAINT  workshop collocated with AAAI-2021</li>
-
-  <li> <b><font color= "#737373" > Best Research Publication Award</font></b> (2022): Best research paper in the ECE department at CUET in 2022</li>
-
-  <li> <b><font color= "#737373" > AAAI Travel Grant </font></b> (2024): To present my paper at ICWSM-2024</li>
-
-   <li> <b><font color= "#737373" > Guarini Travel Award </font></b> (2024): To present paper at EMNLP-24</li>
-
-  <li> <b><font color= "#737373" >CUET Ex-students merit award</font></b> (2015, 2016, 2017): For obtaining highest GPA in an academic year</li>
-
-  <li> <b><font color= "#737373" >Honorable mention</font></b> (2017, 2018): ACM ICPC Dhaka Regional</li>
-
-  <li> <b><font color= "#737373" >Winner</font></b>: Hope speech detection shared task, EACL-2021</li>
-
-  <li> <b><font color= "#737373" >D&I Award</font></b> (EACL-21, EMNLP-21, ACL-22): To attend and present our papers</li>
-  <li> <b><font color= "#737373" >2<sup>nd</sup> runner-up</font></b>: Multimodal meme detection and offenisve language classification shared task, EACL-2021</li>
-  <li> <b><font color= "#737373" >27<sup>th</sup> position</font></b> (among 1600+ teams): ACM ICPC Dhaka Regional Preliminary, 2017</li>
-  <li> <b><font color= "#737373" >31<sup>st</sup> position</font></b> (among 150 selected teams): National Collegiate Programming Contest, 2017</li>
-  <li> <b><font color= "#737373" >5<sup>th</sup> position</font></b> (among 70+ teams): Divisional Programming Contest, 2017</li>
-  <li> <b><font color= "#737373" >1<sup>st</sup> position</font></b> (among 50 teams): Inter University Programming Contest, 2016</li>
-  <li> <b><font color= "#737373" >Best internship trainee award</font></b> (2017): For doing best team project</li>
-  <li> <b><font color= "#737373" >Technical scholarship</font></b> (2014-2018): To get position among top 50% students in the class</li>
-  <li> <b><font color= "#737373" >Primary & high school scholarship</font></b> (2005, 2008): Government of Bangladesh</li>
+  <li> <b><font color= "#737373" >International Programming Contest 2014</font></b>Participated in Quazi Azher Ali International Programming nContest 2014, hosted by Bangladesh University</li>
 </ul>
 
+## <font color="#00cc66"> Extracurricular Activities</font>   
+<ul>
+  <li> <b><font color= "#737373" > Organizing Secretary (2016-2017)  </font></b> Green For Peace, CUET, an organization of CUET for consciousness about nature conservation and pollution</li>
+  
+  <li> <b><font color= "#737373" > Finance and Office Secretary (2016-2017) </font></b> Moshal, a charity organization of CUET</li>
+</ul>
 
-## <font color="#00cc66"> Leadership </font>
+## <font color="#00cc66"> Training and Workshops</font>   
+<ul>
+  <li> <b><font color= "#737373" > LICT TOP-UP Dot NET </font></b> 300hrs (60 hrs soft skills + 240 hrs technical skills) training under NASSCOM IT-ITES Sector Skill Council (SSC) Certified by George Washington University, USA (2017) </li>
+  <li> <b><font color= "#737373" > Android Application Development </font></b> 3 Months Short course by IICT, CUET (2017)</li>
+  <li> <b><font color= "#737373" > Mobile Game Graphics Design </font></b> 40 Hours training by ICT Division, Bangladesh(2017)</li>
+  <li> <b><font color= "#737373" > Advanced Mobile Game Development  </font></b> 40 Hours training by ICT, Division Bangladesh(2017)</li>
+  <li> <b><font color= "#737373" > Cloud Computing & NoSQL Databases  </font></b> Daylong workshop organized by CSE, CUET (2017) </li>
+  <li> <b><font color= "#737373" > Career & Employment  </font></b> Daylong workshop organized by CUET Career Club (2017) </li>
+  <li> <b><font color= "#737373" > Industrial Trainee   </font></b> 15 days industrial attachment at MINZ IT, Bangladesh (2017) </li>
+</ul>
+
+<!-- ## <font color="#00cc66"> Leadership </font>
 
 **CUET NLP Lab**   
 <b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Aug 2022] 
@@ -83,9 +78,9 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <b><font color= "#737373" >Vice Chair</font></b>  [Mar 2021 - Aug 2022] 
 
   * Lead a team of 30+ active members. Plan and assess the growth of the chapter.
-  * Arrange research seminars, talks and workshops on different trending topics. 
+  * Arrange research seminars, talks and workshops on different trending topics.  -->
 
-## <font color="#00cc66"> Co-curricular</font>
+<!-- ## <font color="#00cc66"> Co-curricular</font>
    * Organized [*<font color="#ff6633"> Real-Info workshop</font>*](https://sites.google.com/view/real-info-2024) at ICWSM-2024.
    * Organized CUET CSE Fest 2017, 2018, 2019.
    * Organized CUET National Collegiate Programming Contest 2017.
@@ -93,4 +88,4 @@ Solved 1000+ competitive programming problems in different online platforms as p
    * Champion of CUET Football League 2018, 2019.
    * Champion of Intra Hall Badminton Tournament 2017.
    * Runner-up of Intra Hall Badminton Tournament 2016.
-   * Runner-up of Inter University Volleyball Tournament 2017.
+   * Runner-up of Inter University Volleyball Tournament 2017. -->
