@@ -20,14 +20,13 @@ Served as a co-instructor for several undergraduate courses at the Department of
 |CSE-326 | Internet Programming (Sessional) |Guided students in hands-on exercises to design, implement, and test dynamic web applications and services.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-331 | Theory of Computing | Introduced key topics such as finite automata, regular languages, context-free grammars, and Turing machines to explain the mathematical basis of computation.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-345| Artificial Intelligence|Taught theoretical foundations and practical approaches in artificial intelligence, including problem-solving, reasoning, and machine learning methods.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
+|CSE-346| Artificial Intelligence (Sessional)|Conducted laboratory sessions where students implemented AI algorithms and techniques, including search strategies, knowledge representation, and reasoning, through hands-on programming exercises.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
+|CSE-347 | Introduction to Mathematical Programming |Taught linear and nonlinear programming methods, focusing on problem formulation, algorithmic solutions, and practical applications.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
+|CSE-356 | Software Engineering (Sessional) |Facilitated lab sessions where students applied software development lifecycle concepts to build and test real-world software applications.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-431 | Compiler Design |Introduced compiler design concepts, including analysis, translation, and code generation, for building language processors.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-432 | Compiler Design (Sessional)|Conducted laboratory sessions where students implemented key compiler components, including lexical analyzers, parsers, and code generators, to reinforce theoretical concepts through practical exercises.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-435| Information Security |Covered core concepts of information security, including encryption techniques, secure communication, threat mitigation, and security protocols.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
 |CSE-436 | Information Security (Sessional) |Guided students in practical labs to implement and test security mechanisms for safeguarding data and network systems.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
-|CSE-346| Artificial Intelligence (Sessional)|Conducted laboratory sessions where students implemented AI algorithms and techniques, including search strategies, knowledge representation, and reasoning, through hands-on programming exercises.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
-|CSE-347 | Introduction to Mathematical Programming |Taught linear and nonlinear programming methods, focusing on problem formulation, algorithmic solutions, and practical applications.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
-|CSE-356 | Software Engineering (Sessional) |Facilitated lab sessions where students applied software development lifecycle concepts to build and test real-world software applications.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
-
 
 
 
