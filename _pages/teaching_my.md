@@ -2,7 +2,7 @@
 title: "Teaching"
 excerpt: ""
 author_profile: true
-permalink: /teaching/
+permalink: /teaching_my/
 
 ---
 
