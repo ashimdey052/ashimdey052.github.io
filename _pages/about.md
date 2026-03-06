@@ -18,7 +18,7 @@ redirect_from:
 
 <p align="justify">
 Hi! This is ASHIM DEY!
-            
+
 I am currently working as an Assistant Professor in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. I joined CUET as a Lecturer in 2018 and have been serving as a faculty member since then, actively involved in teaching, research, and mentoring undergraduate students. 
 
 
@@ -114,7 +114,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 </pre>
 </div>
 
-## <font color="#00cc66"> Academic Service </font> 
+<!-- ## <font color="#00cc66"> Academic Service </font> 
 Program Committee Member/Reviewer for, 
   * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
   * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
@@ -147,7 +147,7 @@ List of few books, courses and blog posts that I find really helpfull.
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
    * Colah's Blog [[Link]](http://colah.github.io/).
    * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
-   
+    -->
 
 <!---
 I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.

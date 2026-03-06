@@ -11,10 +11,10 @@ main:
   
   # - title: "Talks"
   #   url: /talks/    
-  - title: "Education/Experience"
+  - title: "Experience"
     url: /education/
 
-  - title: "Achievements/Skills"
+  - title: "Skills"
     url: /achievements/ #/year-archive/ 
 
   - title: "Teaching"
