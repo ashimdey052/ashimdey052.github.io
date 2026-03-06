@@ -1,56 +1,163 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
+excerpt: "About me"
+
+---
+
+<!---
+<p align="justify">
+  <b><font color="red"><h2> (Under Construction)</h2></font></b>
+</p>
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+-->
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<p align="justify">
+Hi! This is ASHIM DEY!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently working as an Assistant Professor in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. I joined CUET as a Lecturer in 2018 and have been serving as a faculty member since then, actively involved in teaching, research, and mentoring undergraduate students. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I completed my M.Sc. in Computer Science and Engineering from CUET while working full-time as a faculty member. My master’s thesis focused on Hybrid Caching with Dynamic Forwarding Strategy in Information-Centric Networking, aiming to improve data retrieval efficiency in next-generation network architectures. Earlier, I obtained my B.Sc. in CSE from CUET, placing 2nd in my class of 120 students. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research broadly lies in the fields of Network Systems, IoT, Artificial Intelligence, and Machine Learning. My work has been published in several peer-reviewed journals, international conferences, and book chapters.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Alongside research, I am deeply interested in supervising student research projects and collaborative academic work. Many of the projects I supervise focus on applying modern NLP and deep learning techniques to solve real-world problems in areas such as healthcare, smart cities, language technology, and security.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In addition to my academic activities, I actively participate in academic community development, mentoring students, and organizing research and technology events at CUET.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Currently, I am preparing to pursue a PhD in Computer Science, where I aim to further explore advanced approaches for solving complex computational and security challenges.
+</p> 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- <p align="justify">
+Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
+</p> -->
 
-**Markdown generator**
+<!-- <b>Contact: 📧</b> [<font color= "#990033" >omar.sharif.gr@dartmouth.edu</font>](omar.sharif.gr@dartmouth.edu)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<b>My latest: </b> [<a href="https://drive.google.com/file/d/1Sg6TjiDu-qrcqMvCFFcC6UhFLgJCzMOo/view?usp=sharing"><font color="#990033">Resume</font></a>] -->
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<!---
+I love to play a lot, read motivational and history (religion, world war) books. My favorite sports are badminton, football, and cricket.
+I am also pursuing my M.Sc. from CUET . My research interest lies in the intersection of Deep Learning, Natural Language Processing, and Information Retrieval. More precisely, my goal is to develop tools that help to present information in a structured way by considering inherent semantic relations and dependencies.
+<font size="2">🟤</font> 
+<font size="2">🔴</font> 
+<font size="2">🟠</font> 
+<font size="2">🟡</font> 
+<font size="2">🟢</font> 
+<font size="2">🔵</font> 
+<font size="2">🟣</font> 
+-->
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## <font color="#00cc66"> News </font>
+<div style="height: 400px; overflow: auto;">
+<pre>
+<!-- <span style="color:rgb(201, 76, 76)">1 Jan,26</span>     Check our new <a href="https://arxiv.org/abs/2601.00215"><font color="#cc00ff">paper</font></a> on visual reasoning. -->
+<!-- <span style="color:rgb(201, 76, 76)">6-9 Oct,25</span>   Attened <a href="https://colmweb.org/">COLM-2025</a> in Montreal 🍁.
+<span style="color:rgb(201, 76, 76)">20 Aug,25</span>    Our <a href="https://arxiv.org/pdf/2502.16838"><font color="#cc00ff">REGen paper</font></a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).
+<span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
+<span style="color:rgb(201, 76, 76)">5 Aug,25</span>     Accepted <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a> program committee invitation.
+<span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
+<span style="color:rgb(201, 76, 76)">15 May,25</span>    Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).
+<span style="color:rgb(201, 76, 76)">29 Apr,25</span>    One <a href="https://www.jmir.org/2025/1/e68886/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.jmir.org/">JMIR</a> (Impact Factor: 6.0).
+<span style="color:rgb(201, 76, 76)">10 Mar,25</span>    Started my research internship at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team.
+<span style="color:rgb(201, 76, 76)">12-16 Nov,24</span> Attended <a href="https://2024.emnlp.org/">EMNLP-2024</a> and presented our paper (<a href="https://aclanthology.org/2024.emnlp-main.673"><font color="#cc00ff">DiscourseEE</font></a>).
+<span style="color:rgb(201, 76, 76)">27 Oct,24</span>    Received <b>Gurarini Travel Award</b> to present my research.
+<span style="color:rgb(201, 76, 76)">20 Sep,24</span>    One <a href="https://omar-sharif03.github.io/DiscourseEE/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.emnlp.org/">EMNLP-2024</a>.
+<span style="color:rgb(201, 76, 76)">30 July,24</span>   Our group is in <a href="https://openai.com/form/researcher-access-program/"><font color="#cc00ff">OpenAI Researcher Access Program</font></a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks.
+<span style="color:rgb(201, 76, 76)">16 May,24</span>    One <a href="https://arxiv.org/abs/2403.10829"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.aclweb.org/">ACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">13 Apr,24</span>    Received <b>AAAI Travel Grant</b>  as a support to attend and present my paper at <a href="https://www.icwsm.org/2024/index.html/index.html">ICWSM-2024</a>.
+<span style="color:rgb(201, 76, 76)">06 Feb,24</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2024.eacl.org/">EACL-2024</a>.
+<span style="color:rgb(201, 76, 76)">22 Jan,24</span>    One <a href="https://aclanthology.org/2024.eacl-srw.12/"><font color="#cc00ff">paper</font></a> accepted at <a href="https://2024.eacl.org/">EACL-SRW-2024</a>.
+<span style="color:rgb(201, 76, 76)">09 Dec,23</span>    One <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30241"><font color="#cc00ff">paper</font></a> accepted at <a href="https://aaai.org/aaai-conference/">AAAI-2024</a>.
+<span style="color:rgb(201, 76, 76)">6-10 Dec,23</span>  Virtually attended <a href="https://2023.emnlp.org/">EMNLP-2023</a> and presented our papers (<a href="https://aclanthology.org/2023.findings-emnlp.273/"><font color="#cc00ff">Paper-1</font></a>, <a href="https://arxiv.org/pdf/2309.06541.pdf"><font color="#cc00ff">Paper-2</font></a>).
+<span style="color:rgb(201, 76, 76)">27 Oct,23</span>    Received <b>Volunteer Award</b> as a support to attend and present my papers at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
+<span style="color:rgb(201, 76, 76)">23 Oct,23</span>    One <a href="https://arxiv.org/abs/2309.06541"><font color="#cc00ff">paper</font></a> accepted in <a href="https://gem-benchmark.com/workshop">GEM-Workshop</a> at <a href="https://2023.emnlp.org/">EMNLP-2023</a>.
+<span style="color:rgb(201, 76, 76)">06 Oct,23</span>    Feeling awesome!! One paper accepted at <a href="https://2023.emnlp.org/">EMNLP-2023</a> Findings.
+<span style="color:rgb(201, 76, 76)">19 Sep,23</span>    Presented a <a href="https://drive.google.com/file/d/180rgB5PVcHhKjfn8Q4M94sejQ5NnoRA8/view?usp=sharing"><font>poster</font></a> at <a href="https://www.c4tbh.org/mental-health-ai-symposium/">Digital Mental Health & AI Symposium</a> organized by <a href="https://www.c4tbh.org/">CTBH</a>.
+<span style="color:rgb(201, 76, 76)">15 July,23</span>   One <a href="https://arxiv.org/abs/2301.11508"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.
+<span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.
+<span style="color:rgb(201, 76, 76)">27 Jun,22</span>    Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!
+<span style="color:rgb(201, 76, 76)">20-25 Jun,22</span> Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf"><font color="#cc00ff">MemoSen</font></a>
+<span style="color:rgb(201, 76, 76)">17 Jun,22</span>    Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font> Feeling awesome!!! 
+<span style="color:rgb(201, 76, 76)">22-27 May,22</span> Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.
+<span style="color:rgb(201, 76, 76)">6 Apr,22</span>     One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.
+<span style="color:rgb(201, 76, 76)">4 Apr,22</span>     One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.
+<span style="color:rgb(201, 76, 76)">26 Mar,22</span>    4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.
+<span style="color:rgb(201, 76, 76)">02 Jan,22</span>    Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true"><font color="#cc00ff">[Slides]</font></a>
+<span style="color:rgb(201, 76, 76)">20 Dec,21</span>    <a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset"><font color="#cc00ff">Bengali Aggressive Text Dataset (BAD)</font></a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.
+<span style="color:rgb(201, 76, 76)">5 Dec,21</span>     Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567"><font color="#cc00ff">Paper</font></a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<font color= "#f00">[IF: 5.719, HI: 143]</font>
+<span style="color:rgb(201, 76, 76)">7-11 Nov,21</span>  Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.
+<span style="color:rgb(201, 76, 76)">5 Nov,21</span>     Two papers (<a href="https://link.springer.com/article/10.1007/s42979-021-00922-z"><font color="#cc00ff">Sentiment</font></a>, <a href="https://link.springer.com/article/10.1007/s42979-021-00913-0"><font color="#cc00ff">Emotion</font></a>) accepted in <a href="https://www.springer.com/journal/42979">SN Computer Science</a> journal.
+<span style="color:rgb(201, 76, 76)">1-6 Aug,21</span>   Virtually attended <a href="https://2021.aclweb.org/">ACL-2021</a>.
+<span style="color:rgb(201, 76, 76)">26 June,21</span>   Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.
+<span style="color:rgb(201, 76, 76)">7 June,21</span>    Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
+<span style="color:rgb(201, 76, 76)">7 Apr,21</span>     Received <b>D&I Award</b> as a support to attend and present my work at <a href="https://2021.eacl.org/">EACL-2021</a>.
+<span style="color:rgb(201, 76, 76)">27 Mar,21</span>    One <a href="https://arxiv.org/abs/2104.08613"><font color="#cc00ff">paper</font></a> accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.<font color= "#f00">[Acceptance rate: 44%]</font>
+<span style="color:rgb(201, 76, 76)">15 Feb,21</span>    Three papers (<a href="https://www.aclweb.org/anthology/2021.ltedi-1.25/"><font color="#cc00ff">Hope</font></a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.35/"><font color="#cc00ff">Offensive</font></a>, <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.43/"><font color="#cc00ff">Multimodal</font></a>) accepted at <a href="https://2021.eacl.org/">EACL-2021</a> workshops.
+<span style="color:rgb(201, 76, 76)">8 Feb,21</span>     Achieved <b>Best paper award (research track)</b> at <a href="http://lcs2.iiitd.edu.in/CONSTRAINT-2021">CONSTRAINT</a> collocated with <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-2021</a>.<font color= "#f00">[Acceptance rate: 37.1%]</font>
+<span style="color:rgb(201, 76, 76)">16 Jan,21</span>    Our team NLP@CUET secured <b>1<sup>st</sup></b>, <b>3<sup>rd</sup></b> and <b>3<sup>rd</sup></b> position at <a href="https://sites.google.com/view/lt-edi-2021/home">Hope speech</a>, <a href="https://dravidianlangtech.github.io/2021/index.html">Offensive language</a> and <a href="https://dravidianlangtech.github.io/2021/index.html">Multimodal meme</a> detection shared tasks.
+<span style="color:rgb(201, 76, 76)">19 Dec,20</span>    Presented a <a href="https://arxiv.org/abs/2012.11420"><font color="#cc00ff">paper</font></a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html">ICON-2020</a>.
+<span style="color:rgb(201, 76, 76)">12 Sep,20</span>    <a href="https://www.mdpi.com/2076-3417/10/18/6527"><font color="#cc00ff">Paper</font></a> accepted at Jouranl of <a href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.<font color= "#f00">[IF: 2.67]</font> -->
+<!---
+<font size="2">🟤</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
+<font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
+-->
+</pre>
+</div>
+
+## <font color="#00cc66"> Academic Service </font> 
+Program Committee Member/Reviewer for, 
+  * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
+  * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
+
+## <font color="#00cc66"> NLP Resources </font>   
+List of few books, courses and blog posts that I find really helpfull.
+
+* **Advices**
+   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
+   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
+   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
+   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+
+* **Books**
+   * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
+   * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
+   * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
+   * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
+   * Deep Learning [[link]](https://www.deeplearningbook.org/)
+
+* **Courses**
+   * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
+   * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
+   * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
+   * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+   * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
+
+* **Follow**
+   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
+   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * Colah's Blog [[Link]](http://colah.github.io/).
+   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
+   
+
+<!---
+I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.
+-->
+
+ <!-- it is crucial to process, relate, and combine information from several modalities. -->
+
+ <!---
+ I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
+ I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
+-->
+
+ <!---
+ Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
+-->
