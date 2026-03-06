@@ -10,8 +10,6 @@ Served as a co-instructor for several undergraduate courses at the Department of
 
 | Course Code | Course Title | Desription |  Syllabus |
 |-------- | --------| -------|  ----------|
-<!-- |CSE-141 | Structured Programming |Guided first-year students through foundational programming concepts and structured problem-solving to develop programs from logical ideas. | [<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)|
-|CSE-142 | Structured Programming (Sessional) | Conducted programming labs focused on applying structured programming concepts and solving problems through code.|[<font color= "#990033" >📌View</font>](../files/Course_Syllabus.pdf)| -->
 |CSE-143 | Object Oriented Programming | Introduced object-oriented programming paradigms and design concepts, enabling students to model real-world problems using classes and objects.|[<font color= "#990033" >📌View</font>](../files/Syllabus_CSE-143.pdf)|
 |CSE-144 | Object Oriented Programming (Sessional)|Supervised programming labs focused on applying object-oriented concepts and developing modular, reusable code.|[<font color= "#990033" >📌View</font>](../files/Syllabus_CSE-144.pdf)|
 |EE-183 | Electronic Devices and Circuits|Taught the fundamentals of semiconductor devices and analog circuits, enabling students to analyze and understand basic electronic circuit behavior.|[<font color= "#990033" >📌View</font>](../files/Syllabus_EE-183.pdf)|
