@@ -18,18 +18,20 @@ redirect_from:
 
 <p align="justify">
 Hi! This is ASHIM DEY!
-
+            
 I am currently working as an Assistant Professor in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. I joined CUET as a Lecturer in 2018 and have been serving as a faculty member since then, actively involved in teaching, research, and mentoring undergraduate students. 
+
 
 I completed my M.Sc. in Computer Science and Engineering from CUET while working full-time as a faculty member. My master’s thesis focused on Hybrid Caching with Dynamic Forwarding Strategy in Information-Centric Networking, aiming to improve data retrieval efficiency in next-generation network architectures. Earlier, I obtained my B.Sc. in CSE from CUET, placing 2nd in my class of 120 students. 
 
+
 My research broadly lies in the fields of Network Systems, IoT, Artificial Intelligence, and Machine Learning. My work has been published in several peer-reviewed journals, international conferences, and book chapters.
+
 
 Alongside research, I am deeply interested in supervising student research projects and collaborative academic work. Many of the projects I supervise focus on applying modern NLP and deep learning techniques to solve real-world problems in areas such as healthcare, smart cities, language technology, and security.
 
-In addition to my academic activities, I actively participate in academic community development, mentoring students, and organizing research and technology events at CUET.
 
-Currently, I am preparing to pursue a PhD in Computer Science, where I aim to further explore advanced approaches for solving complex computational and security challenges.
+In addition to my academic activities, I actively participate in academic community development, mentoring students, and organizing research and technology events at CUET. Currently, I am preparing to pursue a PhD in Computer Science, where I aim to further explore advanced approaches for solving complex computational and security challenges.
 </p> 
 
 <!-- <p align="justify">
