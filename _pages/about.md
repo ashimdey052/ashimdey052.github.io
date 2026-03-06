@@ -16,7 +16,6 @@ redirect_from:
   - /about.html
 -->
 
-<p align="justify">
 Hi! This is ASHIM DEY!
 
 I am currently working as an Assistant Professor in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. I joined CUET as a Lecturer in 2018 and have been serving as a faculty member since then, actively involved in teaching, research, and mentoring undergraduate students. 
@@ -32,7 +31,7 @@ Alongside research, I am deeply interested in supervising student research proje
 
 
 In addition to my academic activities, I actively participate in academic community development, mentoring students, and organizing research and technology events at CUET. Currently, I am preparing to pursue a PhD in Computer Science, where I aim to further explore advanced approaches for solving complex computational and security challenges.
-</p> 
+
 
 <!-- <p align="justify">
 Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
