@@ -15,7 +15,7 @@ redirect_from:
   - /about/
   - /about.html
 -->
-
+<div style="text-align: justify;">
 Hi! This is ASHIM DEY!
 
 I am currently working as an Assistant Professor in the Department of Computer Science and Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. I joined CUET as a Lecturer in 2018 and have been serving as a faculty member since then, actively involved in teaching, research, and mentoring undergraduate students. I completed my M.Sc. in Computer Science and Engineering from CUET while working full-time as a faculty member. My master’s thesis focused on Hybrid Caching with Dynamic Forwarding Strategy in Information-Centric Networking, aiming to improve data retrieval efficiency in next-generation network architectures. Earlier, I obtained my B.Sc. in CSE from CUET, placing 2nd in my class of 120 students. 
@@ -23,7 +23,7 @@ I am currently working as an Assistant Professor in the Department of Computer S
 My research broadly lies in the fields of Network Systems, IoT, Artificial Intelligence, and Machine Learning. My work has been published in several peer-reviewed journals, international conferences, and book chapters. Alongside research, I am deeply interested in supervising student research projects and collaborative academic work. Many of the projects I supervise focus on applying modern NLP and deep learning techniques to solve real-world problems in areas such as healthcare, smart cities, language technology, and security.
 
 In addition to my academic activities, I actively participate in academic community development, mentoring students, and organizing research and technology events at CUET. Currently, I am preparing to pursue a PhD in Computer Science, where I aim to further explore advanced approaches for solving complex computational and security challenges.
-
+</div>
 
 <!-- <p align="justify">
 Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
