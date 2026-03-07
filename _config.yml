@@ -23,7 +23,7 @@ repository               : "ashimdey052/ashimdey052.github.io" #academicpages/ac
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ashim_bio.jpeg"
+  avatar           : "ashim_bio.jpg"
   name             : "Ashim Dey"
   pronouns         : # example: "she/her"  
   bio              : "Working as Assistant Professor at Department of Computer Science and Engineering (CSE), Chittagong University of Engineering and Technology (CUET)"
