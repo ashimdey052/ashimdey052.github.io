@@ -37,6 +37,8 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <ul>
   <li> <b><font color= "#737373" > Academic Merit Award </font></b> Received the Academic Merit Award for outstanding academic performance consecutively from 2013 to 2017, spanning 8 semesters during B.Sc.</li>
   
+  <li> <b><font color= "#737373" > Dean’s Award </font></b> Received the Dean’s Award in recognition of achieving a CGPA of 3.75+ during B.Sc.</li>
+
   <li> <b><font color= "#737373" > ACM-ICPC 2014 Asia Regional</font></b> Participated in the Dhaka Site Online Preliminary Contest which was sponsored by IBM and Hosted by BUBT</li>
     
   <li> <b><font color= "#737373" >International Programming Contest 2014</font></b>Participated in Quazi Azher Ali International Programming nContest 2014, hosted by Bangladesh University</li>
