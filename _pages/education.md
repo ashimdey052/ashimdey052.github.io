@@ -48,12 +48,12 @@ Bangladesh (GUB), Bangladesh*
   * Teach students about diplomacy, international relations, and global issues
 
 **CUET Computer Club**    
-<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] [*<font color="#ff6633">[Link]</font>*](/files/moderator_computer_club.pdf)
   * Promote the consciousness of information technology among students
   * Organize contests, workshops, and seminars
 
 **Green For Peace, CUET**    
-<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] [*<font color="#ff6633">[Link]</font>*](/files/moderator_green_for_peace.pdf)
   * Encouraged student participation in eco-friendly initiatives and led discussions on sustainable practices.
   * Organize workshops, seminars, and campaigns on environmental sustainability.
 
@@ -63,12 +63,12 @@ Bangladesh (GUB), Bangladesh*
   * Keep track of individual performance and form up teams
 
 **Greater Mymensingh Association, CUET**    
-<b><font color= "#737373" >Moderator</font></b>  [2018-Present] 
+<b><font color= "#737373" >Moderator</font></b>  [2018-Present] [*<font color="#ff6633">[Link]</font>*](/files/modertor_GMA.pdf)
   * Facilitated discussions and networking events for students and alumni from the Mymensingh region.
   * Coordinated and organized regional events, alumni meets, and professional networking opportunities.
 
 **Batch 2019, Department of CSE, CUET**    
-<b><font color= "#737373" >Course Co-ordinator</font></b>  [2023-2025] 
+<b><font color= "#737373" >Course Co-ordinator</font></b>  [2023-2025] [*<font color="#ff6633">[Link]</font>*](/files/course_coordinator.pdf)
   * Mentored and guided students of the 2019 batch in course selection, helping them align academic interests with career goals.
   * Provided personalized advice on academic challenges, career paths, and research opportunities.
 
