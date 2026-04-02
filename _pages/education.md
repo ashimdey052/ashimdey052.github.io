@@ -42,15 +42,25 @@ Bangladesh (GUB), Bangladesh*
 
 ## <font color="#00cc66"> Mentorship and Leadership Experience</font>
 
-**CUET Model United Nations Club**   
-<b><font color= "#737373" >Moderator</font></b>  [2024-2025] 
-  * Operate an educational simulation of the United Nations(UN)
-  * Teach students about diplomacy, international relations, and global issues
+**IEEE Robotics and Automation Society (RAS) CUET Chapter**   
+<b><font color= "#737373" >Moderator</font></b>  [2025-Present] 
+  * a student branch chapter of the IEEE RAS that serves as a platform for students to engage in robotics and automation activities.
+  * Supporting technical activities, workshops, and research initiatives.
+
+**IEEE Computer Society CUET Student Branch Chapter**   
+<b><font color= "#737373" >Moderator</font></b>  [2025-Present] 
+  * an official IEEE-CS student chapter at CUET, operating under the IEEE Bangladesh Section.
+  * Mentored students in computing-related projects, workshops, and research initiatives.
 
 **CUET Computer Club**    
 <b><font color= "#737373" >Moderator</font></b>  [2018-Present] [*<font color="#ff6633">[Link]</font>*](/files/moderator_computer_club.pdf)
   * Promote the consciousness of information technology among students
   * Organize contests, workshops, and seminars
+
+**CUET Model United Nations Club**   
+<b><font color= "#737373" >Moderator</font></b>  [2024-2025] 
+  * Operate an educational simulation of the United Nations(UN)
+  * Teach students about diplomacy, international relations, and global issues
 
 **Green For Peace, CUET**    
 <b><font color= "#737373" >Moderator</font></b>  [2018-Present] [*<font color="#ff6633">[Link]</font>*](/files/moderator_green_for_peace.pdf)
